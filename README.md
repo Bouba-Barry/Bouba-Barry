@@ -21,6 +21,10 @@ Having skills in building modern web application,
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouba-Barry)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bouba-Barry&show_icons=true&count_private=true&theme=merko)
+
 - 🔭 I’m currently working on ...
 -
 - 👯 I’m looking to collaborate on ...
