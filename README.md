@@ -21,14 +21,21 @@
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me:
-<p>I am a software engineering student, currently enrolled at Cadi Ayyad University in Marrakech.</p>
-<p>I am passionate about modern, extensible web application development. During my school or 
-professional experiences, I am convinced that I can solve complex problems using current technologies.
-</p>
-<p>Having skills in building modern web application, 
- 🌱 I’m currently learning about Devops practices, like all the tools that gonna allow me to create and deploy app with greater efficiency and scalability . 
- This knowledge will not only streamline the development process but also enhance the overall reliability and performance of the applications I build. 🚀</p>
+<h1 align="center">Hi 👋, I'm Barry</h1>
+<h3 align="center">A passionate Software Engineer from Morocco</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bouba-barry" alt="bouba-barry" /></a> </p>
+
+- 🌱 I’m currently learning **about cloud computing and DevOps practices to enhance my skills in managing scalable and reliable infrastructure.**
+
+- 📫 How to reach me **bboubacar366@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/boubacar-barry-795025225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/boubacar-barry-795025225" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bboubacar366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bboubacar366" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@bboubacar366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bboubacar366" height="30" width="40" /></a>
+</p>
 ## 🛠 &nbsp;Tech Stack:
 
 ### 💻 &nbsp;Languages:
@@ -49,8 +56,9 @@ professional experiences, I am convinced that I can solve complex problems using
 <hr />
 
 ### 🚀 &nbsp;Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouba-Barry)](https://github.com/anuraghazra/github-readme-stats) <br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bouba-Barry&show_icons=true&count_private=true&theme=merko)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouba-barry&show_icons=true&locale=en&layout=compact" alt="bouba-barry" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouba-barry&show_icons=true&locale=en" alt="bouba-barry" /></p> 
 
 
 
