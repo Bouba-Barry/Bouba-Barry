@@ -56,10 +56,8 @@
 <hr />
 
 ### 🚀 &nbsp;Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouba-barry&show_icons=true&locale=en&layout=compact" alt="bouba-barry" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouba-barry&show_icons=true&locale=en" alt="bouba-barry" /></p> 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouba-Barry)](https://github.com/anuraghazra/github-readme-stats) <br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bouba-Barry&show_icons=true&count_private=true&theme=merko)  
 
 
 
